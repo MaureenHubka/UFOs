@@ -1,7 +1,7 @@
 # UFOs
 ## Module 11 Challenge
 ## Overview
-The purpose of this challenge was to enchance a website that was created to search UFO sightings by date.  It was requested to make the site also searchable by city, state, country, and shape.  Using JavaScrpit and HTML, the code in the website index.html file was modified to create more table filters as requested. The filter button was removed and functionality was added to allow the user to enter a free text request for data that would be returned when hitting the enter key. 
+The purpose of this challenge was to enchance a website that was created to search UFO sightings by date.  It was requested to make the site also searchable by city, state, country, and shape.  Using JavaScrpit and HTML, the code in the website index.html and app.js files were modified to create more table filters as requested. The filter button was removed and functionality was added to allow the user to enter a free text request for data that would be returned when hitting the enter key. 
 
 The refactored code is available via the following links:
 
